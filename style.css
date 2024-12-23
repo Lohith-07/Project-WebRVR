@@ -40,10 +40,14 @@ nav{
     height: 8vh;
     width:14vw;
     color:white;
+    margin-right: 2vw;
+}
+#btn-reg a{
+    text-decoration: none;
+    color:white;
     font-weight: 900;
     font-family:'Courier New';
     font-size:20px;
-    margin-right: 2vw;
 }
 main{
     /* background-color: grey; */

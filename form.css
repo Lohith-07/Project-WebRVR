@@ -50,5 +50,38 @@ nav{
     float:right;
     width:55vw;
     height:90vh;
-    /* background-color: blue; */
+    padding: 10px;
+    /* background-color: whitesmoke; */
+
+}
+.reg-form table{
+    padding:10px 85px;
+}
+.reg-form #fld{
+    height:8vh;
+    width:20vw;
+    font-size: 24px;
+    color:white;
+}
+.reg-form input{
+    border:2px solid #d76530;
+    border-radius:5px;
+    height:4vh;
+    width:18vw;
+    font-size: 20px
+}
+.reg-form td{
+    width:3vw;
+}
+fieldset{
+    color: #d76530;
+    font-size:32px;
+}
+legend{
+    padding:3px 6px;
+}
+#sbt{
+    width:8vw;
+    border:2px solid #d76530;
+    border-radius:5px;
 }
